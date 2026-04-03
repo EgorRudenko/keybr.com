@@ -37,5 +37,5 @@ export function usePageData(): PageData {
 }
 
 export function isPremiumUser(user: AnyUser): boolean {
-  return user.id != null && user.premium;
+  return true;
 }
