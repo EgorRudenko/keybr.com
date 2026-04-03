@@ -16,6 +16,7 @@ import { ThemeSwitcher } from "./themes/ThemeSwitcher.tsx";
 
 export function NavMenu({ currentPath }: { readonly currentPath: string }) {
   const { publicUser } = usePageData();
+  // Pages.multiplayer is possible
   return (
     <div className={styles.root}>
       <MenuItem>
@@ -40,10 +41,6 @@ export function NavMenu({ currentPath }: { readonly currentPath: string }) {
 
       <MenuItem>
         <MenuItemLink page={Pages.highScores} />
-      </MenuItem>
-
-      <MenuItem>
-        <MenuItemLink page={Pages.multiplayer} />
       </MenuItem>
 
       <MenuItem>
