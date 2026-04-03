@@ -83,6 +83,64 @@ export function TextManglingProp(): ReactNode {
           />
         </Description>
       </Explainer>
+
+      <FieldList>
+        <Field>
+          <FormattedMessage id="t_Add_numbers:" defaultMessage="Add numbers:" />
+        </Field>
+        <Field>
+          <Range
+            size={16}
+            min={0}
+            max={100}
+            step={1}
+            value={Math.round(settings.get(lessonProps.numbers) * 100)}
+            onChange={(value) => {
+              updateSettings(settings.set(lessonProps.numbers, value / 100));
+            }}
+          />
+        </Field>
+        <Field>
+          <Value value={formatPercents(settings.get(lessonProps.numbers))} />
+        </Field>
+      </FieldList>
+      <Explainer>
+        <Description>
+          <FormattedMessage
+            id="settings.numbers.description"
+            defaultMessage="Adjust the amount of numbers added to the lesson text. Use this option to practice typing numbers."
+          />
+        </Description>
+      </Explainer>
+
+      <FieldList>
+        <Field>
+          <FormattedMessage id="t_Add_symbols:" defaultMessage="Add symbols:" />
+        </Field>
+        <Field>
+          <Range
+            size={16}
+            min={0}
+            max={100}
+            step={1}
+            value={Math.round(settings.get(lessonProps.symbols) * 100)}
+            onChange={(value) => {
+              updateSettings(settings.set(lessonProps.symbols, value / 100));
+            }}
+          />
+        </Field>
+        <Field>
+          <Value value={formatPercents(settings.get(lessonProps.symbols))} />
+        </Field>
+      </FieldList>
+      <Explainer>
+        <Description>
+          <FormattedMessage
+            id="settings.symbols.description"
+            defaultMessage="Adjust the amount of symbols added to the lesson text. Use this option to practice typing symbols."
+          />
+        </Description>
+      </Explainer>
     </>
   );
 }

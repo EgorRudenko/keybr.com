@@ -46,6 +46,8 @@ export class WordListLesson extends Lesson {
       {
         withCapitals: this.settings.get(lessonProps.capitals),
         withPunctuators: this.settings.get(lessonProps.punctuators),
+        withNumbers: this.settings.get(lessonProps.numbers),
+        withSymbols: this.settings.get(lessonProps.symbols),
       },
       rng,
     );

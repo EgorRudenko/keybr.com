@@ -71,6 +71,36 @@ export function uniqueWords(nextWord: WordGenerator): WordGenerator {
   };
 }
 
+const specialChars: char = [
+  "{",
+  "}",
+  "[",
+  "]",
+  "$",
+  "\\",
+  "|",
+  "/",
+  "(",
+  ")",
+  ":",
+  ";",
+  '"',
+  "'",
+  "+",
+  "=",
+  "*",
+  "-",
+  "%",
+  "&",
+  "<",
+  ">",
+  "_",
+  "#",
+  "@",
+  "^",
+  "~",
+  "`",
+];
 export function mangledWords(
   nextWord: WordGenerator,
   language: Language,
@@ -78,9 +108,13 @@ export function mangledWords(
   {
     withCapitals = 0,
     withPunctuators = 0,
+    withNumbers = 0,
+    withSymbols = 0,
   }: {
     withCapitals?: number;
     withPunctuators?: number;
+    withNumbers?: number;
+    withSymbols?: number;
   },
   random: RNG,
 ): WordGenerator {
@@ -127,6 +161,12 @@ export function mangledWords(
           word = `${word}?`;
           break;
       }
+    }
+    if (withNumbers > random()) {
+      word = `${word} ${~~(random() * 1000)}`;
+    }
+    if (withSymbols >= random()) {
+      word = `${word} ${specialChars[~~(random() * specialChars.length)]}`;
     }
     return word;
   };
