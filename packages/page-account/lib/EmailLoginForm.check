@@ -11,7 +11,7 @@ test("success", async () => {
       <EmailLoginForm
         actions={
           {
-            registerEmail: () => {
+            registerLogin: () => {
               return Promise.resolve({});
             },
           } as SignInActions
@@ -38,7 +38,7 @@ test("failure", async () => {
       <EmailLoginForm
         actions={
           {
-            registerEmail: () => {
+            registerLogin: () => {
               return Promise.reject(new Error("What a terrible failure"));
             },
           } as SignInActions

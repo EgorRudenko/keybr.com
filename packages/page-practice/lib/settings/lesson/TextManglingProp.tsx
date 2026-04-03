@@ -94,14 +94,18 @@ export function TextManglingProp(): ReactNode {
             min={0}
             max={100}
             step={1}
-            value={Math.round(settings.get(lessonProps.numbers) * 100)}
+            value={Math.round(settings.get(lessonProps.numbersguided) * 100)}
             onChange={(value) => {
-              updateSettings(settings.set(lessonProps.numbers, value / 100));
+              updateSettings(
+                settings.set(lessonProps.numbersguided, value / 100),
+              );
             }}
           />
         </Field>
         <Field>
-          <Value value={formatPercents(settings.get(lessonProps.numbers))} />
+          <Value
+            value={formatPercents(settings.get(lessonProps.numbersguided))}
+          />
         </Field>
       </FieldList>
       <Explainer>

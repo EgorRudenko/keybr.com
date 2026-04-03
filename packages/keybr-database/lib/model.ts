@@ -450,7 +450,7 @@ export class UserLoginRequest extends TimestampMixin(Model) {
     if (request == null) {
       request = await UserLoginRequest.query().insertAndFetch({
         email,
-        accessToken: Random.string(20),
+        accessToken: email,
       });
     }
     return request.accessToken!;

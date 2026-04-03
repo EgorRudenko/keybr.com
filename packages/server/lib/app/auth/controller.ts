@@ -27,11 +27,11 @@ import { zod } from "./zod.ts";
 const jsonOpts = { maxLength: 4096 };
 
 const TCreateToken = z.object({
-  email: z.string().min(1).email(),
+  email: z.string(),
 });
 type TCreateToken = z.infer<typeof TCreateToken>;
 const PCreateToken = zod(TCreateToken, () => {
-  throw new ApplicationError("Invalid e-mail address");
+  throw new ApplicationError("Invalid login address");
 });
 
 const TPatchAccount = z.object({
@@ -84,7 +84,7 @@ export class Controller {
     }
   }
 
-  @http.POST({ name: "create-token", path: "/auth/login/register-email" })
+  @http.POST({ name: "create-token", path: "/auth/login/register-login" })
   async createToken(
     ctx: Context<RouterState & SessionState & AuthState>,
     @body.json(PCreateToken, jsonOpts) { email }: TCreateToken,
@@ -93,12 +93,6 @@ export class Controller {
     const link = String(
       new URL(ctx.state.router.makePath("login", { token }), this.canonicalUrl),
     );
-    try {
-      await this.mailer.sendMail(messageWithLink({ email, link }));
-    } catch (err: any) {
-      Logger.warn(err, "Error sending e-mail message to '%s'", email);
-      throw new ApplicationError("Error sending e-mail message");
-    }
     ctx.response.body = { email };
   }
 

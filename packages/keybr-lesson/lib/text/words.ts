@@ -71,7 +71,7 @@ export function uniqueWords(nextWord: WordGenerator): WordGenerator {
   };
 }
 
-const specialChars: char = [
+const specialChars: string[] = [
   "{",
   "}",
   "[",

@@ -11,10 +11,10 @@ export type PatchAccountResponse = {
 };
 
 export namespace AccountService {
-  export async function registerEmail(email: string): Promise<unknown> {
+  export async function registerLogin(email: string): Promise<unknown> {
     const response = await request
       .use(expectType("application/json"))
-      .POST("/auth/login/register-email")
+      .POST("/auth/login/register-login") // /auth/login/register-email
       .send({ email });
     return await response.json();
   }

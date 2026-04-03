@@ -1,67 +1,81 @@
 # English
 
-Translated: 346 messages, 4787 words
+Translated: 346 messages, 4692 words
 
 Untranslated: 0 messages, 0 words
 
 # Afrikaans
 
-Translated: 339 messages, 4744 words
+Translated: 336 messages, 4642 words
 
-Untranslated: 7 messages, 43 words
+Untranslated: 10 messages, 50 words
 
+* *LogIn*
 * *Letters*
 * *Volume:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Arabic
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Bulgarian
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Bangla
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Catalan
 
-Translated: 310 messages, 3556 words
+Translated: 307 messages, 3454 words
 
-Untranslated: 34 messages, 1209 words
+Untranslated: 37 messages, 1216 words
 
+* *LogIn*
 * *Errors*
 * *Zones:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Sound theme:*
@@ -69,6 +83,7 @@ Untranslated: 34 messages, 1209 words
 * *Key sounds only*
 * *Relative Accuracy*
 * *Repeat each word:*
+* *Sign-in with login*
 * *The previous keys are also above the target speed*
 * *Generate lessons that resemble the specified programming lan...*
 * *Practice punctuation characters that are specific to a progr...*
@@ -77,77 +92,86 @@ Untranslated: 34 messages, 1209 words
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 * *Show color coding of the keyboard zones. Use this option to ...*
 * *Generate typing lessons from the text of a book. All keys ar...*
-* *Highlight a key that must to be pressed next. Use this optio...*
-* *<p>This indicator shows the current subset of letters used t...*
-* *Repeat each word a number of times. Type a word for the firs...*
 * ...
 
 # Czech
 
-Translated: 338 messages, 4742 words
+Translated: 335 messages, 4640 words
 
-Untranslated: 8 messages, 45 words
+Untranslated: 11 messages, 52 words
 
 * *Font:*
+* *LogIn*
 * *Syntax:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Sound theme:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Danish
 
-Translated: 331 messages, 4689 words
+Translated: 328 messages, 4587 words
 
-Untranslated: 13 messages, 76 words
+Untranslated: 16 messages, 83 words
 
+* *LogIn*
 * *Score*
 * *Layout*
 * *Layout:*
 * *Layouts*
 * *Position*
+* *Your login*
 * *Multiplayer*
 * *Add numbers:*
 * *Add symbols:*
 * *Download data*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 * *Repeat each word a number of times. Type a word for the firs...*
 
 # German
 
-Translated: 339 messages, 4744 words
+Translated: 336 messages, 4642 words
 
-Untranslated: 7 messages, 43 words
+Untranslated: 10 messages, 50 words
 
+* *LogIn*
 * *Position*
 * *Alphabet:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Greek
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Esperanto
 
-Translated: 77 messages, 1126 words
+Translated: 74 messages, 1024 words
 
-Untranslated: 262 messages, 3603 words
+Untranslated: 265 messages, 3610 words
 
 * *GO!*
 * *Copy*
@@ -158,6 +182,7 @@ Untranslated: 262 messages, 3603 words
 * *Books*
 * *Close*
 * *Font:*
+* *LogIn*
 * *Reset*
 * *Speed*
 * *Visit*
@@ -168,45 +193,52 @@ Untranslated: 262 messages, 3603 words
 * *Lessons*
 * *Lessons*
 * *Not set*
-* *Numbers*
 * ...
 
 # Spanish
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Estonian
 
-Translated: 338 messages, 4743 words
+Translated: 335 messages, 4641 words
 
-Untranslated: 8 messages, 44 words
+Untranslated: 11 messages, 51 words
 
 * *GO!*
 * *Font:*
+* *LogIn*
 * *Progress*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Persian
 
-Translated: 295 messages, 2959 words
+Translated: 292 messages, 2857 words
 
-Untranslated: 49 messages, 1806 words
+Untranslated: 52 messages, 1813 words
 
 * *Books*
+* *LogIn*
 * *Zones:*
 * *Syntax:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Sound theme:*
@@ -214,6 +246,7 @@ Untranslated: 49 messages, 1806 words
 * *Explain charts*
 * *Key sounds only*
 * *Repeat each word:*
+* *Sign-in with login*
 * *Keyboard hardware emulates layout*
 * *Circle color: {label1} – hit count, {label2} – miss count.*
 * *Practice punctuation characters that are specific to a progr...*
@@ -221,19 +254,17 @@ Untranslated: 49 messages, 1806 words
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 * *Show color coding of the keyboard zones. Use this option to ...*
 * *Bar color: {label1} – hit count, {label2} – miss count, {lab...*
-* *Generate typing lessons from the text of a book. All keys ar...*
-* *Horizontal axis: lesson number. Vertical axis: typing speed ...*
-* *<a>Benford’s law</a> is an observation that in many real-lif...*
 * ...
 
 # Finnish
 
-Translated: 208 messages, 2284 words
+Translated: 205 messages, 2182 words
 
-Untranslated: 132 messages, 2447 words
+Untranslated: 135 messages, 2454 words
 
 * *GO!*
 * *Time*
+* *LogIn*
 * *Layouts*
 * *Metrics*
 * *Not set*
@@ -245,20 +276,19 @@ Untranslated: 132 messages, 2447 words
 * *Uncertain*
 * *Characters*
 * *Top speed!*
+* *Your login*
 * *High Scores*
 * *Multiplayer*
 * *Smoothness:*
 * *Add numbers:*
 * *Add symbols:*
-* *Play sounds:*
-* *Average speed*
 * ...
 
 # Faroese
 
-Translated: 44 messages, 583 words
+Translated: 41 messages, 481 words
 
-Untranslated: 294 messages, 4135 words
+Untranslated: 297 messages, 4142 words
 
 * *GO!*
 * *Copy*
@@ -269,6 +299,7 @@ Untranslated: 294 messages, 4135 words
 * *Books*
 * *Close*
 * *Font:*
+* *LogIn*
 * *Reset*
 * *Speed*
 * *Speed*
@@ -279,23 +310,25 @@ Untranslated: 294 messages, 4135 words
 * *Zones:*
 * *Account*
 * *Layout:*
-* *Layouts*
 * ...
 
 # French
 
-Translated: 333 messages, 4544 words
+Translated: 330 messages, 4442 words
 
-Untranslated: 13 messages, 243 words
+Untranslated: 16 messages, 250 words
 
+* *LogIn*
 * *Zones:*
 * *Options*
 * *Volume:*
 * *Position*
 * *Alphabet:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 * *Above are listed the longest continuous sequences of lessons...*
@@ -304,79 +337,94 @@ Untranslated: 13 messages, 243 words
 
 # Irish
 
-Translated: 337 messages, 4735 words
+Translated: 334 messages, 4633 words
 
-Untranslated: 9 messages, 52 words
+Untranslated: 12 messages, 59 words
 
+* *LogIn*
 * *Zones:*
+* *Your login*
 * *Smoothness:*
 * *Add numbers:*
 * *Add symbols:*
 * *Sound theme:*
 * *M|T|W|T|F|S|S*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Hebrew
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Croatian
 
-Translated: 337 messages, 4740 words
+Translated: 334 messages, 4638 words
 
-Untranslated: 9 messages, 47 words
+Untranslated: 12 messages, 54 words
 
 * *Font:*
+* *LogIn*
 * *Reset*
+* *Your login*
 * *Multiplayer*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Premium account price:*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Hungarian
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Indonesian
 
-Translated: 339 messages, 4744 words
+Translated: 336 messages, 4642 words
 
-Untranslated: 7 messages, 43 words
+Untranslated: 10 messages, 50 words
 
 * *GO!*
+* *LogIn*
 * *Volume:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Icelandic
 
-Translated: 95 messages, 1742 words
+Translated: 92 messages, 1640 words
 
-Untranslated: 244 messages, 2987 words
+Untranslated: 247 messages, 2994 words
 
 * *GO!*
 * *Copy*
@@ -387,6 +435,7 @@ Untranslated: 244 messages, 2987 words
 * *Books*
 * *Close*
 * *Font:*
+* *LogIn*
 * *Reset*
 * *Retry*
 * *Speed*
@@ -397,44 +446,49 @@ Untranslated: 244 messages, 2987 words
 * *Account*
 * *Layouts*
 * *Lessons*
-* *Metrics*
 * ...
 
 # Italian
 
-Translated: 334 messages, 4738 words
+Translated: 331 messages, 4636 words
 
-Untranslated: 11 messages, 47 words
+Untranslated: 14 messages, 54 words
 
 * *Font:*
+* *LogIn*
 * *Layout*
 * *Account*
 * *Layout:*
 * *Layouts*
 * *Volume:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Japanese
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Korean
 
-Translated: 145 messages, 1297 words
+Translated: 142 messages, 1195 words
 
-Untranslated: 199 messages, 3468 words
+Untranslated: 202 messages, 3475 words
 
 * *Copy*
 * *Done*
@@ -442,6 +496,7 @@ Untranslated: 199 messages, 3468 words
 * *Books*
 * *Close*
 * *Font:*
+* *LogIn*
 * *Reset*
 * *Visit*
 * *Typing*
@@ -455,20 +510,22 @@ Untranslated: 199 messages, 3468 words
 * *All keys*
 * *Chapters*
 * *Keyboard*
-* *Previous*
 * ...
 
 # Lithuanian
 
-Translated: 305 messages, 3388 words
+Translated: 302 messages, 3286 words
 
-Untranslated: 38 messages, 1368 words
+Untranslated: 41 messages, 1375 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
 * *Accuracy Streaks*
 * *Relative Accuracy*
+* *Sign-in with login*
 * *No accuracy streaks.*
 * *Practice numbers only.*
 * *The difference from the average value.*
@@ -481,16 +538,13 @@ Untranslated: 38 messages, 1368 words
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 * *Show color coding of the keyboard zones. Use this option to ...*
 * *Are you sure you want to delete all data and reset your prof...*
-* *You don’t have any accuracy streaks. Consider completing a l...*
-* *Highlight a key that must to be pressed next. Use this optio...*
-* *<p>This indicator shows the current subset of letters used t...*
 * ...
 
 # Mongolian
 
-Translated: 16 messages, 378 words
+Translated: 15 messages, 373 words
 
-Untranslated: 320 messages, 4311 words
+Untranslated: 321 messages, 4221 words
 
 * *GO!*
 * *Copy*
@@ -502,6 +556,7 @@ Untranslated: 320 messages, 4311 words
 * *Books*
 * *Close*
 * *Font:*
+* *LogIn*
 * *Reset*
 * *Retry*
 * *Score*
@@ -511,19 +566,19 @@ Untranslated: 320 messages, 4311 words
 * *Digits*
 * *Errors*
 * *Layout*
-* *Resend*
 * ...
 
 # Norwegian Bokmål
 
-Translated: 211 messages, 2446 words
+Translated: 208 messages, 2344 words
 
-Untranslated: 130 messages, 2288 words
+Untranslated: 133 messages, 2295 words
 
 * *Done*
 * *Help*
 * *Books*
 * *Font:*
+* *LogIn*
 * *Speed*
 * *Account*
 * *Accuracy*
@@ -533,80 +588,92 @@ Untranslated: 130 messages, 2288 words
 * *All sounds*
 * *Daily goal*
 * *Last speed*
+* *Your login*
 * *Custom text*
 * *Daily goal:*
 * *Smoothness:*
 * *Whitespace:*
 * *Add numbers:*
-* *Add symbols:*
-* *Cursor shape:*
 * ...
 
 # Nepali
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Dutch
 
-Translated: 333 messages, 4736 words
+Translated: 330 messages, 4634 words
 
-Untranslated: 12 messages, 49 words
+Untranslated: 15 messages, 56 words
 
+* *LogIn*
 * *Score*
 * *Zones:*
 * *Account*
 * *Letters*
 * *Volume:*
+* *Your login*
 * *Multiplayer*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
 * *Premium account*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Polish
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Brazilian Portuguese
 
-Translated: 338 messages, 4743 words
+Translated: 335 messages, 4641 words
 
-Untranslated: 8 messages, 44 words
+Untranslated: 11 messages, 51 words
 
+* *LogIn*
 * *Layout*
 * *Layout:*
 * *Layouts*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # European Portuguese
 
-Translated: 319 messages, 4618 words
+Translated: 316 messages, 4516 words
 
-Untranslated: 25 messages, 147 words
+Untranslated: 28 messages, 154 words
 
 * *Books*
+* *LogIn*
 * *Layout*
 * *Zones:*
 * *Layout:*
@@ -614,6 +681,7 @@ Untranslated: 25 messages, 147 words
 * *Volume:*
 * *Top score!*
 * *Top speed!*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Sound theme:*
@@ -623,24 +691,24 @@ Untranslated: 25 messages, 147 words
 * *Average accuracy*
 * *Relative Accuracy*
 * *Repeat each word:*
-* *Daily goal reached!*
-* *New letter unlocked!*
-* *Premium account price:*
+* *Sign-in with login*
 * ...
 
 # Romanian
 
-Translated: 298 messages, 3587 words
+Translated: 296 messages, 3577 words
 
-Untranslated: 41 messages, 1156 words
+Untranslated: 43 messages, 1071 words
 
 * *Font:*
+* *LogIn*
 * *Layout*
 * *Zones:*
 * *Account*
 * *Layout:*
 * *Layouts*
 * *Translate*
+* *Your login*
 * *Multiplayer*
 * *Add numbers:*
 * *Add symbols:*
@@ -651,83 +719,98 @@ Untranslated: 41 messages, 1156 words
 * *Average accuracy*
 * *Relative Accuracy*
 * *Repeat each word:*
-* *Start in {countDown}*
-* *Premium account price:*
-* *Enter full-screen mode.*
+* *Sign-in with login*
 * ...
 
 # Russian
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Slovak
 
-Translated: 340 messages, 4745 words
+Translated: 337 messages, 4643 words
 
-Untranslated: 6 messages, 42 words
+Untranslated: 9 messages, 49 words
 
+* *LogIn*
 * *Syntax:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Slovenian
 
-Translated: 340 messages, 4745 words
+Translated: 337 messages, 4643 words
 
-Untranslated: 6 messages, 42 words
+Untranslated: 9 messages, 49 words
 
 * *Font:*
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Albanian
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Swedish
 
-Translated: 338 messages, 4743 words
+Translated: 335 messages, 4641 words
 
-Untranslated: 8 messages, 44 words
+Untranslated: 11 messages, 51 words
 
+* *LogIn*
 * *Layout*
 * *Layout:*
 * *Syntax:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Thai
 
-Translated: 329 messages, 4635 words
+Translated: 326 messages, 4533 words
 
-Untranslated: 15 messages, 130 words
+Untranslated: 18 messages, 137 words
 
+* *LogIn*
 * *Zones:*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Sound theme:*
@@ -736,6 +819,7 @@ Untranslated: 15 messages, 130 words
 * *Average accuracy*
 * *Relative Accuracy*
 * *Repeat each word:*
+* *Sign-in with login*
 * *Premium account price:*
 * *This is a histogram of the accuracies of all users, and your...*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
@@ -745,12 +829,13 @@ Untranslated: 15 messages, 130 words
 
 # Turkish
 
-Translated: 227 messages, 2126 words
+Translated: 224 messages, 2024 words
 
-Untranslated: 114 messages, 2606 words
+Untranslated: 117 messages, 2613 words
 
 * *Books*
 * *Font:*
+* *LogIn*
 * *Zones:*
 * *Metrics*
 * *Preview*
@@ -758,6 +843,7 @@ Untranslated: 114 messages, 2606 words
 * *Syntax:*
 * *Alphabet:*
 * *Box cursor*
+* *Your login*
 * *Line cursor*
 * *Source code*
 * *Whitespace:*
@@ -767,68 +853,81 @@ Untranslated: 114 messages, 2606 words
 * *Top accuracy*
 * *No whitespace*
 * *Smooth cursor*
-* *Bar whitespace*
-* *Emulate layout*
 * ...
 
 # Ukrainian
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Vietnamese
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Simplified Chinese
 
-Translated: 340 messages, 4739 words
+Translated: 337 messages, 4637 words
 
-Untranslated: 6 messages, 48 words
+Untranslated: 9 messages, 55 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *M|T|W|T|F|S|S*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Traditional Chinese
 
-Translated: 341 messages, 4746 words
+Translated: 338 messages, 4644 words
 
-Untranslated: 5 messages, 41 words
+Untranslated: 8 messages, 48 words
 
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*
 
 # Chinese (Taiwan)
 
-Translated: 340 messages, 4745 words
+Translated: 337 messages, 4643 words
 
-Untranslated: 6 messages, 42 words
+Untranslated: 9 messages, 49 words
 
 * *GO!*
+* *LogIn*
+* *Your login*
 * *Add numbers:*
 * *Add symbols:*
 * *Key sounds only*
+* *Sign-in with login*
 * *Adjust the amount of numbers added to the lesson text. Use t...*
 * *Adjust the amount of symbols added to the lesson text. Use t...*

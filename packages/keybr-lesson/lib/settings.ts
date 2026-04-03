@@ -56,7 +56,7 @@ export const lessonProps = {
   } as const,
   capitals: numberProp("lesson.capitals", 0, { min: 0, max: 1 }),
   punctuators: numberProp("lesson.punctuators", 0, { min: 0, max: 1 }),
-  numbers: numberProp("lesson.numbers", 0, { min: 0, max: 1 }),
+  numbersguided: numberProp("lesson.numbersguided", 0, { min: 0, max: 1 }),
   symbols: numberProp("lesson.symbols", 0, { min: 0, max: 1 }),
   repeatWords: numberProp("lesson.repeatWords", 1, { min: 1, max: 10 }),
   targetSpeed: numberProp("lesson.targetSpeed", 175, { min: 75, max: 750 }),
